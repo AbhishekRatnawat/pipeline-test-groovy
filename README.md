@@ -33,3 +33,4 @@
 
 3. **Run Tests with Gradle**:  
    Easily integrate with Gradle to run your tests and automate the validation of your Jenkins pipeline logic.
+   Run: `./gradlew clean test --info`
